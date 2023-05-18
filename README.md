@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yuliya</h1>
-<h3 align="center">Working manual QA since 2021</h3>
+<h1 align="center">Привет 👋, меня зовут Юлия</h1>
+<h3 align="center">Работаю ручным тестировщиком с 2021 года</h3>
 
-- 🌱 I’m currently learning **QA, Java**
+- 🌱 Продолжаю учить **QA, Java**
 
-- ⚡ Fun fact **I have a Bachelor's and a Master's Degree in Education**
+- ⚡ Рандомный факт обо мне **Имею степень бакалавра и магистра в области образования**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
